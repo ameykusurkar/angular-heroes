@@ -1,6 +1,7 @@
 node_modules
 typings
 *.swp
+*.swo
 app/**/*.js
 app/**/*.map
 npm-debug.log
