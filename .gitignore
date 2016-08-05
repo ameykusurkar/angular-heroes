@@ -1,6 +1,7 @@
 node_modules
 typings
 *.swp
+*.swn
 *.swo
 app/**/*.js
 app/**/*.map
