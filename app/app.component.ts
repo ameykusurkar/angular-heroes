@@ -8,13 +8,15 @@ import { HeroService } from './hero.service';
   styles: [`
     .selected {
       background-color: #CFD8DC !important;
-      color: white;
+      color: black;
     }
     .heroes {
+      background-color: #9FA7AB !important;
       margin: 0 0 2em 0;
       list-style-type: none;
-      padding: 0;
+      padding: 1;
       width: 15em;
+      border-radius: 4px;
     }
     .heroes li {
       cursor: pointer;
